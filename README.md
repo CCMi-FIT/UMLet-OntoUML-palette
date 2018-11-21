@@ -1,7 +1,5 @@
 # UMLet-OntoUML-palette
 
-Release v1.0 
-
 ## Installation
 
 - find where your standalone umlet folder is (where umlet.jar is located)
