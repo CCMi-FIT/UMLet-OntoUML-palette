@@ -201,6 +201,20 @@ Non-Sortals</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>160</x>
+      <y>720</y>
+      <w>120</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+&lt;&lt;phaseMixin&gt;&gt;
+*SimpleClass*
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
     <id>Relation</id>
     <coordinates>
       <x>10</x>
